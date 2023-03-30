@@ -6,9 +6,9 @@ HTTP client handler for MRG made in JavaScript.
 - [x] Concurrent requests system
 - [x] Manage memory by cloning the client and the url
 - [x] Creating a unique thread system
-- [] Updating threads when auction house API reloaded (WIP)
-- [] Benchmarking on Google Cloud
-- [] Benchmarking on Oracle Cloud
+- [ ] Updating threads when auction house API reloaded (WIP)
+- [ ] Benchmarking on Google Cloud
+- [ ] Benchmarking on Oracle Cloud
 
 ```
 npm i
